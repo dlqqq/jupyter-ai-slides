@@ -11,11 +11,15 @@ drawings:
   persist: false
 ---
 
-# Jupyter AI v3.0
+# Jupyter AI Developer Summit
 
-State of the Union
+SF 2026 Keynote
 
-Jupyter AI developer summit SF 2026
+David L. Qiu, Piyush Jain
+
+---
+src: ./sections/00-intro.md
+---
 
 ---
 src: ./sections/01-jupyter-ai-v3.md
@@ -32,3 +36,13 @@ src: ./sections/03-strategy.md
 ---
 src: ./sections/04-roadmap.md
 ---
+
+---
+
+# Thank you!
+
+We'll start the open discussion soon.
+
+- Take a break if you need one (I might need one)
+- Feel free to raise hands and ask us any questions.
+- Feel free to ask a question to the broader audience here.
