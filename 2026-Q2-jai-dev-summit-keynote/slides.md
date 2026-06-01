@@ -5,8 +5,9 @@ title: Jupyter AI v3.0
 info: |
   ## Jupyter AI v3.0 — State of the Union
   Jupyter AI developer summit SF 2026
-class: text-center
+class: text-center text-white
 transition: slide-left
+background: '#F37626'
 drawings:
   persist: false
 ---
@@ -25,9 +26,11 @@ src: ./sections/00-intro.md
 src: ./sections/01-jupyter-ai-v3.md
 ---
 
+<!-->
 ---
 src: ./sections/02-nb-cli.md
 ---
+-->
 
 ---
 src: ./sections/03-strategy.md
